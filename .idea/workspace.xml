@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b45836a0-f224-427f-b990-7f1d7781d2e0" name="Changes" comment="[setting]">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study-java.iml" afterDir="false" />
+    <list default="true" id="b45836a0-f224-427f-b990-7f1d7781d2e0" name="Changes" comment="float과 double 타입의 소수 이하 유효 자릿수 확인">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/sec05/BooleanExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,24 +27,110 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2cZMPkkPSes3sVpxBYxg0Y62qKx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CharExample.executor": "Run",
+    "Application.FloatDoubleExample.executor": "Run",
+    "Application.IntegerLiteralExample.executor": "Run",
+    "Application.VariableInitializationExample.executor": "Run",
+    "Application.VariableUseExample.executor": "Run",
+    "Application.VarialbleExchangeExample.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/hya/Desktop/Java/study/study-java/src/Main.java"
+    "onboarding.tips.debug.path": "/Users/hya/Desktop/Java/study/study-java/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.BooleanExample">
+    <configuration name="BooleanExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch02.sec05.BooleanExample" />
+      <module name="study-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch02.sec05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch02.sec03.CharExample" />
+      <module name="study-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch02.sec03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FloatDoubleExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch02.sec04.FloatDoubleExample" />
+      <module name="study-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch02.sec04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerLiteralExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch02.sec02.IntegerLiteralExample" />
+      <module name="study-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch02.sec02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarialbleExchangeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch02.sec01.VarialbleExchangeExample" />
+      <module name="study-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch02.sec02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BooleanExample" />
+        <item itemvalue="Application.FloatDoubleExample" />
+        <item itemvalue="Application.CharExample" />
+        <item itemvalue="Application.IntegerLiteralExample" />
+        <item itemvalue="Application.VarialbleExchangeExample" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,10 +140,116 @@
       <option name="presentableId" value="Default" />
       <updated>1708314627152</updated>
     </task>
+    <task id="LOCAL-00001" summary="[setting]">
+      <option name="closed" value="true" />
+      <created>1708314680735</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708314680735</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[setting]">
+      <option name="closed" value="true" />
+      <created>1708314694718</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708314694718</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[setting]">
+      <option name="closed" value="true" />
+      <created>1708314746581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708314746581</updated>
+    </task>
+    <task id="LOCAL-00004" summary="변수 선언 컴파일 오류">
+      <option name="closed" value="true" />
+      <created>1708324290095</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708324290095</updated>
+    </task>
+    <task id="LOCAL-00005" summary="변수 연산식 활용">
+      <option name="closed" value="true" />
+      <created>1708324327124</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708324327124</updated>
+    </task>
+    <task id="LOCAL-00006" summary="변수의 값 교환">
+      <option name="closed" value="true" />
+      <created>1708324369777</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708324369777</updated>
+    </task>
+    <task id="LOCAL-00007" summary="-">
+      <option name="closed" value="true" />
+      <created>1708324411427</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708324411427</updated>
+    </task>
+    <task id="LOCAL-00008" summary="정수 리터럴을 int 타입 변수에 대입하고 10진수로 출력">
+      <option name="closed" value="true" />
+      <created>1708325163819</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708325163819</updated>
+    </task>
+    <task id="LOCAL-00009" summary="char 타입의 변수 예제">
+      <option name="closed" value="true" />
+      <created>1708327076912</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708327076912</updated>
+    </task>
+    <task id="LOCAL-00010" summary="폴더 위치 이동">
+      <option name="closed" value="true" />
+      <created>1708327125964</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708327125964</updated>
+    </task>
+    <task id="LOCAL-00011" summary=".idea 추가">
+      <option name="closed" value="true" />
+      <created>1708327158525</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708327158525</updated>
+    </task>
+    <task id="LOCAL-00012" summary="float과 double 타입의 소수 이하 유효 자릿수 확인">
+      <option name="closed" value="true" />
+      <created>1708328013644</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708328013644</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[setting]" />
-    <option name="LAST_COMMIT_MESSAGE" value="[setting]" />
+    <MESSAGE value="변수 선언 컴파일 오류" />
+    <MESSAGE value="변수 연산식 활용" />
+    <MESSAGE value="변수의 값 교환" />
+    <MESSAGE value="-" />
+    <MESSAGE value="정수 리터럴을 int 타입 변수에 대입하고 10진수로 출력" />
+    <MESSAGE value="char 타입의 변수 예제" />
+    <MESSAGE value="폴더 위치 이동" />
+    <MESSAGE value=".idea 추가" />
+    <MESSAGE value="float과 double 타입의 소수 이하 유효 자릿수 확인" />
+    <option name="LAST_COMMIT_MESSAGE" value="float과 double 타입의 소수 이하 유효 자릿수 확인" />
   </component>
 </project>
