@@ -31,6 +31,7 @@ public class KeyControlExample {
             switch (strNum) {
                 case "1" -> speed++;
                 case "2" -> speed--;
+                //  while문의 조건식을 false로 만들어 종료
                 default -> run = false;
             }
             System.out.println("현재 속도 = " + speed);
