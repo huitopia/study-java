@@ -1,4 +1,4 @@
-package ch05.sec07;
+package ch05.sec08;
 
 public class ArrayReferenceObjectExample {
     public static void main(String[] args) {
