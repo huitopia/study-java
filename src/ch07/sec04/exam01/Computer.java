@@ -1,4 +1,4 @@
-package ch07.sec05.exam01;
+package ch07.sec04.exam01;
 
 public class Computer extends Calculator {
     // 메소드 오버라이딩

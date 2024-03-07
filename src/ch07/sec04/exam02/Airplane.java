@@ -1,4 +1,4 @@
-package ch07.sec05.exam02;
+package ch07.sec04.exam02;
 
 public class Airplane {
     // 메소드 선언
