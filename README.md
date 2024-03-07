@@ -83,7 +83,7 @@
 - 정적 멤버
     - [정적 멤버 사용](src/ch06/sec10/exam01)
     - [정적 블록](src/ch06/sec10/exam02)
-    - [static에서 instance 사용](src/ch06/sec10/exam03/Car.java)
+    - [static 에서 instance 사용](src/ch06/sec10/exam03/Car.java)
 - [final 필드](src/ch06/sec11/exam01)
 - [상수](src/ch06/sec11/exam02)
 - 접근 제한자
@@ -95,13 +95,13 @@
 
 ### 3. 상속
 
-- 클래스 상속
-- 부모 생성자 호출
-- 메소드 재정의
+- [클래스 상속](src/ch07/sec02)
+- [super()](src/ch07/sec03)
+- [method overriding](src/ch07/sec04)
 - final class & final method
 - protected 접근 제한자
-- 타입 변환
-- 다형성
+- [타입 변환](src/ch07/sec07)
+- [다형성](src/ch07/sec08)
 - 객체 타입 확인
 - 추상 클래스
 - 봉인된 클래스
