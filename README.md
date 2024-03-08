@@ -98,8 +98,8 @@
 - [클래스 상속](src/ch07/sec02)
 - [super()](src/ch07/sec03)
 - [method overriding](src/ch07/sec04)
-- final class & final method
-- protected 접근 제한자
+- [final class & final method](src/ch07/sec05)
+- [protected 접근 제한자](src/ch07/sec06)
 - [타입 변환](src/ch07/sec07)
 - [다형성](src/ch07/sec08)
 - [instanceOf](src/ch07/sec09)
