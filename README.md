@@ -102,8 +102,8 @@
 - protected 접근 제한자
 - [타입 변환](src/ch07/sec07)
 - [다형성](src/ch07/sec08)
-- 객체 타입 확인
-- 추상 클래스
+- [instanceOf](src/ch07/sec09)
+- [abstract](src/ch07/sec10)
 - 봉인된 클래스
 
 ## 기타
