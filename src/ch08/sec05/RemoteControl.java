@@ -16,6 +16,7 @@ public interface RemoteControl {
     default void setMute(boolean mute) {
         if (mute) {
             System.out.println("무음 처리");
+            // 추상 메소드 호출하면서 상수 필드 사용
             setVolume(MIN_VOLUME);
         } else {
             System.out.println("무음 해제");
