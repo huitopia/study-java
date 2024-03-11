@@ -28,5 +28,3 @@ class Dog implements Soundable {
         return "멍멍";
     }
 }
-
-
