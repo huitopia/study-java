@@ -104,7 +104,30 @@
 - [다형성](src/ch07/sec08)
 - [instanceOf](src/ch07/sec09)
 - [abstract](src/ch07/sec10)
-- 봉인된 클래스
+- [sealed class](src/ch07/sec11)
+
+### 4. 인터페이스
+
+- [인터페이스와 구현 클래스 선언](src/ch08/sec02)
+- [public static final](src/ch08/sec03)
+- [abstract method](src/ch08/sec04)
+- [default, static, private method](src/ch08/sec07)
+- [다중 인터페이스 구현](src/ch08/sec08)
+- [인터페이스 상속](src/ch08/sec09)
+- [타입 변환](src/ch08/sec10)
+- [다형성](src/ch08/sec11)
+- [instanceof](src/ch08/sec12)
+- 봉인된 인터페이스
+
+### 5. 중첩 선언과 익명 객체
+
+- 중첩 클래스
+- [instance member class](src/ch09/sec02)
+- [static class](src/ch09/sec03)
+- [local class](src/ch09/sec04)
+- 바깥 멤버 클래스 x
+- [중첩 인터페이스](src/ch09/sec06)
+- [익명 객체(anonymous)](src/ch09/sec07)
 
 ## 기타
 
