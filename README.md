@@ -129,8 +129,20 @@
 - [중첩 인터페이스](src/ch09/sec06)
 - [익명 객체(anonymous)](src/ch09/sec07)
 
+## 라이브러리 활용
+
+### 6. 람다식
+
+- [람다식](src/ch16/sec01)
+- [매개변수가 없는 람다식](src/ch16/sec02)
+- [매개변수가 있는 람다식](src/ch16/sec03)
+- [리턴값이 있는 람다식](src/ch16/sec04)
+- [메소드 참조](src/ch16/sec05)
+- 생성자 참조
+
 ## 기타
 
 - [Math.random()](src/ch04/sec01/MathRandomExample.java)
 - [Print](src/ch02/sec10/PrintfExample.java)
 - [Scanner](src/ch02/sec11/ScannerExample.java)
+- [Arrays.sort](src/ch16/sec00/SortExample.java)
