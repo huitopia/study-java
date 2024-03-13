@@ -5,7 +5,6 @@ import java.util.Random;
 
 public class Sample07 {
     public static void main(String[] args) {
-        // TODO : null 대신 익명 클래스 객체 코드 작성
         Game rpsGame = new Game() {
             @Override
             public void play() {
