@@ -1,5 +1,7 @@
 package ch07.sec12.exam01;
 
+import static java.lang.StringTemplate.STR;
+
 public class Example02 {
     public static void main(String[] args) {
         Age year = new Year(31, 4); // 나이, 몇년생
