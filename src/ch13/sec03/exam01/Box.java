@@ -1,0 +1,15 @@
+package ch13.sec03.exam01;
+
+public class Box<T> {
+    private T t; // field
+
+    // Getter method
+    public T get() {
+        return t;
+    }
+
+    // Setter method
+    public void set(T t) {
+        this.t = t;
+    }
+}
