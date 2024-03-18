@@ -79,7 +79,7 @@
     - [return](src/ch06/sec08/exam03)
     - [메소드 오버로딩](src/ch06/sec08/exam04)
 - 인스턴스 멤버
-    - [this]((src/ch06/sec09))
+    - [this](src/ch06/sec09)
 - 정적 멤버
     - [정적 멤버 사용](src/ch06/sec10/exam01)
     - [정적 블록](src/ch06/sec10/exam02)
@@ -131,14 +131,58 @@
 
 ## 라이브러리 활용
 
-### 6. 람다식
+### 1. java.base 모듈
+
+- API document
+- java module
+- [Object class](src/ch12/sec03)
+    - [equals()](src/ch12/sec03/exam01)
+    - [hashCode()](src/ch12/sec03/exam02)
+    - [toString()](src/ch12/sec03/exam03)
+- System class
+- String class
+- [Boxing class](src/ch12/sec06)
+- 수학 클래스
+- 날짜와 시간 클래스
+- 형식 클래스
+- [정규 표현식 클래스](src/ch12/sec10)
+- 리플렉션
+- 어노테이션
+
+### 2. Generic
+
+- [Generic](src/ch13/sec01)
+- [Generic Type](src/ch13/sec02)
+- [Generic Method](src/ch13/sec03)
+- [Bounded Type Parameter](src/ch13/sec04)
+- [Wild Type Parameter](src/ch13/sec05)
+
+### 3. 멀티 스레드
+
+### 4. 컬렉션 자료구조
+
+- Collection Framework
+- [List Collection](src/ch15/sec00)
+    - [Array List](src/ch15/sec02/exam01)
+    - [Linked List](src/ch15/sec02/exam03)
+    - Vector
+- Set Collection
+- Map Collection
+- 검색 기능을 강화시킨 Collection
+- LIFO와 FFO Collection
+- 동기화된 Collection
+- 수정할 수 없는 Collection
+
+### 5. 람다식
 
 - [람다식](src/ch16/sec01)
 - [매개변수가 없는 람다식](src/ch16/sec02)
 - [매개변수가 있는 람다식](src/ch16/sec03)
 - [리턴값이 있는 람다식](src/ch16/sec04)
-- [메소드 참조](src/ch16/sec05)
-- 생성자 참조
+- Method Reference
+    - [static&instance method Reference](src/ch16/sec05/exam01)
+    - [Parameter Reference](src/ch16/sec05/exam02)
+    - [Constructor Reference](src/ch16/sec05/exam03)
 
 ## 기타
 
