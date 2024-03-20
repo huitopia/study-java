@@ -4,8 +4,6 @@ import java.util.HashSet;
 
 public class HashSetExample {
     public static void main(String[] args) {
-        // HashSet : 동등 객체를 중복 저장하지 않는다.
-        // HashSet java util 패키지에 있으므로 import
         // HashSet 컬렉션 생성
         HashSet hashSet = new HashSet();
         // HashSet에 Student 객체 생성
