@@ -26,7 +26,7 @@ public class ImmutableExample {
         list.add("C");
         System.out.println("list = " + list);
         List<String> immutableList = List.copyOf(list);
-        immutableList.add("D");
+//        immutableList.add("D"); (X)
         System.out.println("immutableList = " + immutableList);
         // Set 컬렉션을 불변 컬렉션으로 복사
         Set<String> set = new HashSet<>();
