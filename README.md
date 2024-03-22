@@ -208,12 +208,16 @@
     - [mapToInt()](src/ch17/sec06/exam01)
     - [기본 타입 -> Wrapper](src/ch17/sec06/exam02/MapExample.java)
     - [flatMap()](src/ch17/sec06/exam03/FlatMappingExample.java)
-- 요소 정렬
-- 요소를 하나씩 처리
-- 요소 조건 만족 여부
-- 요소 기본 집계
-- 요소 커스텀 집계
+- sorted
+    - [Comparable](src/ch17/sec07/exam01)
+    - [Comparator](src/ch17/sec07/exam02)
+- [looping](src/ch17/sec08)
+- [Match](src/ch17/sec09)
+- [Optional](src/ch17/sec10)
+- [reduce()](src/ch17/sec11/ReductionExample.java)
 - 요소 수집
+    - [collect(Collectors.toMap)](src/ch17/sec12/exam01)
+    - [collect(Collectors.groupingBy())](src/ch17/sec12/exam02/CollectExample.java)
 - 요소 병렬 처리
 
 ## 기타
