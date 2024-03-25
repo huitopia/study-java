@@ -129,6 +129,23 @@
 - [중첩 인터페이스](src/ch09/sec06)
 - [익명 객체(anonymous)](src/ch09/sec07)
 
+### 6. 예외 처리
+
+- 예외와 예외 클래스
+- 예외 처리 코드
+    - [NullPointerException](src/ch11/sec02/exam01/ExceptionHandlingExample.java)
+    - [try-catch-finally](src/ch11/sec02/exam01/ExceptionHandlingExample2.java)
+    - [ClassNotFoundException](src/ch11/sec02/exam02/ExceptionHandlingExample.java)
+- [예외 종류에 따른 처리](src/ch11/sec03/exam01/ExceptionHandlingExample.java)
+    - [Exception Class 상속 관계](src/ch11/sec03/exam02/ExceptionHandlingExample.java)
+    - [두 개 이상의 예외 동일 처리](src/ch11/sec03/exam03/ExceptionHandlingExample.java)
+- [리소스 자동 닫기](src/ch11/sec04)
+- [throws](src/ch11/sec05/ThrowsExample.java)
+    - [throws Exception](src/ch11/sec05/ThrowsExample2.java)
+- Custom Exception
+    - [Constructor Exception](src/ch11/sec06/InsufficientException.java)
+    - [throw](src/ch11/sec06/Account.java)
+
 ## 라이브러리 활용
 
 ### 1. java.base 모듈
