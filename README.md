@@ -167,7 +167,7 @@
     - [패키지와 타입 정보 얻기](src/ch12/sec11/exam01/GetClassExample.java)
     - [멤버 정보 얻기](src/ch12/sec11/exam02/ReflectionExample.java)
     - [리소스 경로 얻기](src/ch12/sec11/exam03/GetResourceExample.java)
-- 어노테이션
+- [Annotation](src/ch12/sec12)
 
 ### 2. Generic
 
